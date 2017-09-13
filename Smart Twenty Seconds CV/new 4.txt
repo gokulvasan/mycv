@@ -1,0 +1,82 @@
+
+\begin{table}
+    \begin{tabular}{|l|l|l|}
+    \hline
+    Company                                            & Duration                   & Designation               \\ \hline
+    Chair of Real Time Systems                         & Sep 2014 - July 2017       & Research assistant (HiWi) \\ \hline
+    CISCO Sytems                                       & August 2011 - Feb 2014     & Software engineer II      \\ \hline
+    LG Electronics                                     & June 2008 - July 2011      & Senior  Software engineer \\ \hline
+    Cranes Software Systems ( Client: LG Electronics ) & September 2007 – June 2008 & Trainee                   \\ \hline
+    \end{tabular}
+\end{table}
+
+\begin{tabular}{ |p{3cm}|p{3cm}|p{3cm}|  }
+\hline
+\multicolumn{3}{|c|}{7Years Company experience + 2.5Years Research assitant} \\
+\hline
+
+\rowcolor{lightgray}{Company 	& 	Duration  &			Designation \\ \hline}
+Chair of Real Time Systems                         & Sep 2014 - July 2017       & Research assistant (HiWi) \\
+CISCO Sytems                                       & August 2011 - Feb 2014     & Software engineer II      \\ 
+LG Electronics                                     & June 2008 - July 2011      & Senior  Software engineer \\ 
+Cranes Software Systems ( Client: LG Electronics ) & September 2007 – June 2008 & Trainee                   \\
+
+\hline
+\end{tabular}
+
+
+\begin{tabular}{ |p{5cm}|p{4cm}|p{4.5cm}|  }
+\hline
+\multicolumn{3}{|c|}{\textbf{\textcolor{ferrarired}7} Years Company experience + \textbf{\textcolor{ferrarired}{2.5}} Years Research assitant} \\
+\hline
+\rowcolor{sidecolor} 
+\textbf{Company} 	& 	\textbf{Duration}  &			\textbf{Designation} \\ \hline
+Chair of Real Time Systems                         & Sep 2014 - Jul 2017       & Research assistant (HiWi) \\ \hline
+CISCO Sytems                                       & Aug 2011 - Feb 2014     & Software engineer II      \\ \hline
+LG Electronics                                     & June 2008 - July 2011      & Senior  Software engineer \\ \hline
+Cranes Software Systems( LGE ) & Sep 2007 – June 2008 & Trainee                   \\ \hline
+\end{tabular}
+
+
+\begin{tabular}{ |p{3cm}|p{3cm}|p{3cm}|  }
+\hline
+\multicolumn{3}{|c|} \rowcolor{lightgray}{Tools Created} \\
+\hline
+\multicolumn{3}{|c|} {
+	\begin{itemize}
+		\item Heap analyzer for E-Gold platform
+			\begin{itemize}
+				\item Tool which logs the heap status whenever alloc and free.
+				\item Logs Filename, line number, Date with time when heap fails to allocate.
+			\end{itemize}
+	\end{itemize}
+} 
+\hline
+
+\end{tabular}
+
+
+======WORKING=====
+\begin{tabular}{ |p{10cm}|p{10cm}| }
+ \hline
+
+ \rowcolor{sidecolor} 
+ \textbf{{\large Project name}} & name \\[2ex]
+ \hline
+ \rowcolor{sidecolor} 
+ \textbf{{\large Company/Institution}} & name \\[2ex]
+ \hline
+ \textbf{{\large Software approach}} & name \\[2ex]
+ \hline
+ \textbf{{\large Platform}} & name \\[2ex]
+ \hline
+  \textbf{{\large Language and tools used}} & name \\[2ex]
+ \hline
+ \multicolumn{1}{ l }{\textbf{\large Description and Responsibilities:}} \\[2ex]
+ \hline
+ \hline
+\end{tabular}
+
+
+
+
